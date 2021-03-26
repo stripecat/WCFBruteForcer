@@ -30,6 +30,7 @@ $maxruntime=480 # Maximum time of execution for each spawned job.
 Open Hosts.txt and add all URLs you want to scan. One line per url. Don't forget the portnumber!
 
 Open a PS terminal and navigate to the folder containing the file.
+
 run:
 .\WCFBruteForcer.ps1
 
